@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[[Header](https://github.com/rixiaozhang/RixiaoZhang/blob/main/testpic1.png "Header")]
+![Header](https://github.com/rixiaozhang/RixiaoZhang/blob/main/testpic1.png "Header")
