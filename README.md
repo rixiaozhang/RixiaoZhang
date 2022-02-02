@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,typescript,css,glsl,Assembly,objective-c,shell,scala,c#&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,typescript,css,glsl,Assembly,objective-c,shell,scala,c#,ada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
