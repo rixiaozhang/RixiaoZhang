@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,typescript,css,glsl,Assembly,objective-c,shell,scala,c#,ada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rixiaozhang)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixiaozhang&hide=javascript,html,typescript,css,glsl,Assembly,objective-c,shell,scala,c#,ada,makefile,llvm&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
