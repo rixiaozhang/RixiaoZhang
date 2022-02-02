@@ -59,8 +59,8 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 <a href="https://github.com/rixiaozhang/MyDropbox">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rixiaozhang&repo=MyDropbox&theme=buefy" />
 </a>
-<a href="https://github.com/rixiaozhang/CPU-Design">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rixiaozhang&repo=CPU-Design&theme=buefy" />
+<a href="https://github.com/rixiaozhang/CpuDesign">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rixiaozhang&repo=CpuDesign&theme=buefy" />
 </a>
 
 <a href="https://github.com/rixiaozhang/Numc">
