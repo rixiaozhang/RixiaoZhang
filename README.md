@@ -44,12 +44,9 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
-
-
 ## &#x1f4c8; GitHub Stats
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rixiaozhang&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rixiaozhang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixiaozhang&hide=javascript,typescript,css,objective-c,shell,scala,ada,makefile,llvm&layout=compact&theme=buefy&hide_border=true" /></a> |
