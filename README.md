@@ -63,11 +63,11 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rixiaozhang&repo=MyCpu&theme=buefy" />
 </a>
 
-<a href="https://github.com/rixiaozhang/Numc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rixiaozhang&repo=Numc&theme=buefy" />
+<a href="https://github.com/rixiaozhang/MyNumpy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rixiaozhang&repo=MyNumpy&theme=buefy" />
 </a>
-<a href="https://github.com/rixiaozhang/Gitlet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rixiaozhang&repo=Gitlet&theme=buefy" />
+<a href="https://github.com/rixiaozhang/MyGit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rixiaozhang&repo=MyGit&theme=buefy" />
 </a>
 
 
