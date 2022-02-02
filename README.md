@@ -47,12 +47,26 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rixiaozhang)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/rixiaozhang/RixiaoZhang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixiaozhang&hide=javascript,typescript,css,objective-c,shell,scala,ada,makefile,llvm&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rixiaozhang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixiaozhang&hide=javascript,typescript,css,objective-c,shell,scala,ada,makefile,llvm&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+#### Top Repositories
+
+
+<a href="https://github.com/rixiaozhang/myDropbox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rixiaozhang&repo=myDropbox&theme=buefy" />
+</a>
+<a href="https://github.com/rixiaozhang/CPU-Design">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rixiaozhang&repo=CPU-Design&theme=buefy" />
 </a>
 
-<a href="https://github.com/rixiaozhang/RixiaoZhang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rixiaozhang&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rixiao's GitHub Stats" />
+<a href="https://github.com/rixiaozhang/Numc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rixiaozhang&repo=Numc&theme=buefy" />
+</a>
+<a href="https://github.com/rixiaozhang/Gitlet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rixiaozhang&repo=Gitlet&theme=buefy" />
 </a>
 
 
