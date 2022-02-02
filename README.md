@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![Header](https://github.com/rixiaozhang/RixiaoZhang/blob/main/testpic1.png "Header")
-
+-->
 
 #  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello, folks!
 
