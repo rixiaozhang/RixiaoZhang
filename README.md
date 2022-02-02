@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Header](https://github.com/rixiaozhang/RixiaoZhang/blob/main/testpic1.png "Header")
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello, folks!
 
 My name is Rixiao Zhang. I am currently transitioning to a full-stack blockchain developer role, which means that I'm constantly improving my skills in Solidity, Hardhat, Ethers, Rust, and many other technologies. 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
