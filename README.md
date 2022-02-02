@@ -32,10 +32,12 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
@@ -46,8 +48,6 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x1f4c8; GitHub Stats
 
-
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rixiaozhang&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -56,7 +56,7 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 | ------------- | ------------- |
 
 
-#### Top Repositories
+## 👍 Top Repositories
 
 
 <a href="https://github.com/rixiaozhang/myDropbox">
