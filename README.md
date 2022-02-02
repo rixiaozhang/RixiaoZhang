@@ -48,7 +48,7 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 <a href="https://github.com/rixiaozhang/RixiaoZhang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixiaozhang&hide=typescript,css,objective-c,shell,scala,ada,makefile,llvm&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixiaozhang&hide=javascript,typescript,css,objective-c,shell,scala,ada,makefile,llvm&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/rixiaozhang/RixiaoZhang">
