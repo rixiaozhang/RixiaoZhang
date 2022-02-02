@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 <!--
 ![Header](https://github.com/rixiaozhang/RixiaoZhang/blob/main/testpic1.png "Header")
+
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+
 -->
 
 #  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello, folks!
