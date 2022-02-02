@@ -48,7 +48,7 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rixiaozhang)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rixiaozhang&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
