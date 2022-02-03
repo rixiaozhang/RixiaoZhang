@@ -22,10 +22,21 @@ Here are some ideas to get you started:
 -->
 
 #  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello, folks!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rixiao-zhang-b41728220/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/rixiaozhang)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Vegas777E)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rixiaozhang)
 
-My name is Rixiao Zhang. I am currently transitioning to a full-stack blockchain developer role, which means that I'm constantly improving my skills in Solidity, Hardhat, Ethers, Rust, and many other technologies. 
-You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I'm a graduate in electrical engineering and computer sciences(EECS) 🎓 from University of california, Berkeley 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I am currently transitioning to a full-stack blockchain developer role, which means that I'm constantly improving my skills in Solidity, Hardhat, Ethers, Rust, and many other technologies. 
 
+
+## ❤️ Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I’m currently working with Rust and Solidity.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rixiaozhang).
+- 💬 &nbsp; Ask me about anything [here](https://t.me/rixiaozhang)! I am happy to help.
+- 📫 &nbsp; How to reach me: rixiaozhang@berkeley.edu.
+- 📝 &nbsp; Checkout my [Resume](https://github.com/rixiaozhang/Resume/blob/main/Rixiao_Zhang_Resume.PDF).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -46,14 +57,12 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x1f4c8; GitHub Stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rixiaozhang&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rixiaozhang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixiaozhang&hide=javascript,typescript,css,objective-c,shell,scala,ada,makefile,llvm&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
-## 👍 Top Repositories
+## 🎩 Top Repositories
 
 
 <a href="https://github.com/rixiaozhang/MyDropbox">
@@ -71,22 +80,3 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 </a>
 
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Vegas777E
-[2]: https://github.com/rixiaozhang
-[3]: https://www.linkedin.com/in/rixiao-zhang-b41728220/
