@@ -57,6 +57,8 @@ I'm a graduate in electrical engineering and computer sciences(EECS) 🎓 from U
 
 ## &#x1f4c8; GitHub Stats
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rixiaozhang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixiaozhang&hide=javascript,typescript,css,objective-c,shell,scala,ada,makefile,llvm&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
