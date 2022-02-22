@@ -58,6 +58,13 @@ I'm a graduate in electrical engineering and computer sciences(EECS) 🎓 from U
 ## &#x1f4c8; GitHub Stats
 
 <!--START_SECTION:waka-->
+```text
+Other   3 hrs 27 mins   ████████████▒░░░░░░░░░░░░   49.10 % 
+Rust    2 hrs 26 mins   ████████▓░░░░░░░░░░░░░░░░   34.61 % 
+TOML    43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+HTML    23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+SQL     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+```
 <!--END_SECTION:waka-->
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rixiaozhang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixiaozhang&hide=javascript,typescript,css,objective-c,shell,scala,ada,makefile,llvm&layout=compact&theme=buefy&hide_border=true" /></a> |
