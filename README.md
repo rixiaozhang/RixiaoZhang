@@ -32,7 +32,7 @@ I'm a graduate in electrical engineering and computer sciences(EECS) 🎓 from U
 
 ## ❤️ Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Rust and Solidity.
+- 🛠 &nbsp; I’m currently working with Rust.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rixiaozhang).
 - 💬 &nbsp; Ask me about anything [here](https://t.me/rixiaozhang)! I am happy to help.
 - 📫 &nbsp; How to reach me: rixiaozhang@berkeley.edu.
