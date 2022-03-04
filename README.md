@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Vegas777E)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rixiaozhang)
 
-I'm a graduate in electrical engineering and computer sciences(EECS) 🎓 from University of california, Berkeley 🏛. Go Bears!🐻 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I am currently transitioning to a full-stack blockchain developer role, which means that I'm constantly improving my skills in Solidity, Hardhat, Ethers, Rust🦀, and many other technologies. 
+I'm a graduate in electrical engineering and computer sciences(EECS) 🎓 from University of california, Berkeley 🏛. Go Bears!🐻 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I am currently transitioning to a full-stack blockchain developer role, which means that I'm constantly improving my skills in Rust🦀, React.js, Anchor, and many other technologies. 
 
 
 ## ❤️ Talking about Personal Stuffs:
