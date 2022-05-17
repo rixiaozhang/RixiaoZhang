@@ -59,7 +59,7 @@ I'm a graduate in electrical engineering and computer sciences(EECS) 🎓 from U
 <!--START_SECTION:waka-->
 
 ```text
-Other        8 hrs 14 mins   █████████████████░░░░░░░░   68.17 %
+Other        5 hrs 20 mins   ██████████████░░░░░░░░░░░   56.38 %
 ```
 
 <!--END_SECTION:waka-->
