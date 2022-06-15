@@ -54,28 +54,9 @@ I'm a graduate in electrical engineering and computer sciences(EECS) 🎓 from U
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
-## &#x1f4c8; GitHub Stats
-
-<!--START_SECTION:waka-->
-
-```text
-Solidity   2 hrs 38 mins   █████████████████████████   99.95 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Haskell    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
-<!--END_SECTION:waka-->
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rixiaozhang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixiaozhang&hide=javascript,typescript,css,objective-c,shell,scala,ada,makefile,llvm&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 
 ## 🎩 Top Repositories
 
-
-<a href="https://github.com/rixiaozhang/MyDropbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rixiaozhang&repo=MyDropbox&theme=buefy" />
-</a>
 <a href="https://github.com/rixiaozhang/MyCpu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rixiaozhang&repo=MyCpu&theme=buefy" />
 </a>
